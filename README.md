@@ -1,2 +1,103 @@
 # Networking-Labs
 Practical Cisco CCNA lab portfolio: VLANs, routing, security, and enterprise networking documented with Packet Tracer and GNS3.
+- [x] Lab 1 – VLAN Segmentation  
+- [ ] Lab 2 – Extended VLANs  
+- [ ] Lab 3 – VTP Client/Server  
+- [ ] Lab 4 – Spanning Tree Protocol (STP)  
+- [ ] Lab 5 – EtherChannel  
+- [ ] Lab 6 – Router on a Stick (Inter-VLAN Routing)  
+- [ ] Lab 7 – DHCP Configuration  
+- [ ] Lab 8 – Static Routing  
+- [ ] Lab 9 – Default Routing  
+- [ ] Lab 10 – Dynamic Routing Basics  
+- [ ] Lab 11 – RIP v2  
+- [ ] Lab 12 – EIGRP Basics  
+- [ ] Lab 13 – Advanced EIGRP  
+- [ ] Lab 14 – OSPF Single Area  
+- [ ] Lab 15 – OSPF Multi-Area  
+- [ ] Lab 16 – OSPF Advanced Features  
+- [ ] Lab 17 – Redistribution (EIGRP ↔ OSPF)  
+- [ ] Lab 18 – Passive Interfaces  
+- [ ] Lab 19 – Default Route Propagation  
+- [ ] Lab 20 – IPv6 Addressing  
+- [ ] Lab 21 – IPv6 Static Routing  
+- [ ] Lab 22 – IPv6 OSPF  
+- [ ] Lab 23 – IPv6 EIGRP  
+- [ ] Lab 24 – IPv6 RIPng  
+- [ ] Lab 25 – IPv6 Redistribution  
+- [ ] Lab 26 – IPv6 Tunneling  
+- [ ] Lab 27 – NAT (Static, Dynamic, PAT)  
+- [ ] Lab 28 – Access Control Lists (ACL Basics)  
+- [ ] Lab 29 – Standard ACLs  
+- [ ] Lab 30 – Extended ACLs  
+- [ ] Lab 31 – Named ACLs  
+- [ ] Lab 32 – Time-Based ACLs  
+- [ ] Lab 33 – Reflexive ACLs  
+- [ ] Lab 34 – Advanced ACL Scenarios  
+- [ ] Lab 35 – VLAN Trunking  
+- [ ] Lab 36 – VLAN Pruning  
+- [ ] Lab 37 – Voice VLANs  
+- [ ] Lab 38 – Switchport Security  
+- [ ] Lab 39 – Port Security with MAC Binding  
+- [ ] Lab 40 – DHCP Snooping  
+- [ ] Lab 41 – Dynamic ARP Inspection  
+- [ ] Lab 42 – IP Source Guard  
+- [ ] Lab 43 – STP Root Bridge Selection  
+- [ ] Lab 44 – STP Port Roles & States  
+- [ ] Lab 45 – STP Advanced Features (BPDU Guard, PortFast)  
+- [ ] Lab 46 – RSTP (Rapid Spanning Tree)  
+- [ ] Lab 47 – MSTP (Multiple Spanning Tree)  
+- [ ] Lab 48 – EtherChannel with LACP  
+- [ ] Lab 49 – EtherChannel with PAgP  
+- [ ] Lab 50 – Layer 3 EtherChannel  
+- [ ] Lab 51 – First Hop Redundancy (HSRP)  
+- [ ] Lab 52 – VRRP Basics  
+- [ ] Lab 53 – GLBP Basics  
+- [ ] Lab 54 – Advanced FHRP Scenarios  
+- [ ] Lab 55 – Switch Stacking  
+- [ ] Lab 56 – VSS (Virtual Switching System)  
+- [ ] Lab 57 – Wireless LAN Basics  
+- [ ] Lab 58 – WPA2 Security  
+- [ ] Lab 59 – Wireless with VLANs  
+- [ ] Lab 60 – Wireless with Authentication Server  
+- [ ] Lab 61 – WAN Introduction (PPP)  
+- [ ] Lab 62 – PPP Authentication (PAP, CHAP)  
+- [ ] Lab 63 – Frame Relay Basics  
+- [ ] Lab 64 – Frame Relay Advanced  
+- [ ] Lab 65 – MPLS Basics  
+- [ ] Lab 66 – GRE Tunneling  
+- [ ] Lab 67 – Site-to-Site VPN  
+- [ ] Lab 68 – DMVPN Phase 1  
+- [ ] Lab 69 – DMVPN Phase 2  
+- [ ] Lab 70 – DMVPN Phase 3  
+- [ ] Lab 71 – QoS Basics  
+- [ ] Lab 72 – Classification & Marking  
+- [ ] Lab 73 – Queuing Mechanisms  
+- [ ] Lab 74 – Traffic Policing  
+- [ ] Lab 75 – Traffic Shaping  
+- [ ] Lab 76 – Network Monitoring (SPAN, RSPAN)  
+- [ ] Lab 77 – Syslog Configuration  
+- [ ] Lab 78 – SNMP Configuration  
+- [ ] Lab 79 – NetFlow Basics  
+- [ ] Lab 80 – NTP Configuration  
+- [ ] Lab 81 – Logging & Monitoring Advanced  
+- [ ] Lab 82 – Security: Device Hardening  
+- [ ] Lab 83 – Security: AAA with RADIUS  
+- [ ] Lab 84 – Security: AAA with TACACS+  
+- [ ] Lab 85 – Security: SSH & Secure Management  
+- [ ] Lab 86 – Security: Port-Based Authentication (802.1X)  
+- [ ] Lab 87 – Security: Control Plane Policing  
+- [ ] Lab 88 – Security: Advanced Threats (IPS/IDS)  
+- [ ] Lab 89 – Security: Firewalls with Routers  
+- [ ] Lab 90 – IPv6 Security Features  
+- [ ] Lab 91 – Cloud Networking Basics  
+- [ ] Lab 92 – Virtual Networking in GNS3  
+- [ ] Lab 93 – SDN Basics (OpenFlow, Cisco ACI)  
+- [ ] Lab 94 – Network Automation with Python  
+- [ ] Lab 95 – Network Automation with Ansible  
+- [ ] Lab 96 – Network Programmability (REST APIs)  
+- [ ] Lab 97 – Docker & Networking  
+- [ ] Lab 98 – Kubernetes Networking  
+- [ ] Lab 99 – Cloud VPNs (AWS/GCP/Azure)  
+- [ ] Lab 100 – Hybrid Cloud Networking  
+- [ ] Lab 101 – Final Enterprise Network Design Project  
