@@ -1,0 +1,11 @@
+Real-World Relevance
+
+In enterprise networks, VLANs are used to segment traffic:
+
+Admin (HR/IT) is separated for sensitive data access.
+
+Engineering is isolated to handle technical workloads.
+
+Marketing operates independently to prevent congestion and unauthorized access.
+
+This improves security, network efficiency, and troubleshooting.

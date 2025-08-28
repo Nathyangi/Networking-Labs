@@ -1,0 +1,9 @@
+🧩 Skills Acquired
+
+Creating VLANs on Cisco Catalyst switches
+
+Assigning VLANs to specific port ranges using an interface range
+
+Verifying VLAN assignments with show vlan brief
+
+Understanding VLANs as a way to separate departments and control broadcast domains

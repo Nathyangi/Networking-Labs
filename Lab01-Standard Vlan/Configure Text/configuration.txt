@@ -1,0 +1,42 @@
+! Enter privileged EXEC mode
+Switch> enable
+
+! Configure hostname
+Switch# configure terminal
+Switch(config)# hostname Sw1
+
+! Create VLANs
+Sw1(config)# vlan 10
+Sw1(config-vlan)# name ADMIN
+Sw1(config-vlan)# exit
+
+Sw1(config)# vlan 20
+Sw1(config-vlan)# name ENGINEERING
+Sw1(config-vlan)# exit
+
+Sw1(config)# vlan 30
+Sw1(config-vlan)# name MARKETING
+Sw1(config-vlan)# exit
+
+! Assign VLANs to ports
+
+! VLAN 10 - Admin (Fa0/1–4)
+Sw1(config)# interface range fa0/1 - 4
+Sw1(config-if-range)# switchport mode access
+Sw1(config-if-range)# switchport access vlan 10
+Sw1(config-if-range)# exit
+
+! VLAN 20 - Engineering (Fa0/5–13)
+Sw1(config)# interface range fa0/5 - 13
+Sw1(config-if-range)# switchport mode access
+Sw1(config-if-range)# switchport access vlan 20
+Sw1(config-if-range)# exit
+
+! VLAN 30 - Marketing (Fa0/14–20)
+Sw1(config)# interface range fa0/14 - 20
+Sw1(config-if-range)# switchport mode access
+Sw1(config-if-range)# switchport access vlan 30
+Sw1(config-if-range)# exit
+
+! Save configuration
+Sw1# write memory

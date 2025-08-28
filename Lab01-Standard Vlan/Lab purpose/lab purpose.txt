@@ -1,0 +1,1 @@
+VLAN configuration is a fundamental skill. VLANs allow you to segment your network into multiple, smaller broadcast domains. As a Cisco engineer, you will be expected to know how to configure VLANs on Cisco switches. 

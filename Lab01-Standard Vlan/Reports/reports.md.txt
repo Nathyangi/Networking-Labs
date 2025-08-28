@@ -1,0 +1,32 @@
+# Lab 1: Standard VLAN Segmentation on Cisco 2960
+
+## 🎯 Objective
+Configure VLANs on a Cisco 2960 switch to segment network traffic by department:
+- VLAN 10: Admin
+- VLAN 20: Engineering
+- VLAN 30: Marketing
+
+This lab demonstrates how VLANs improve security and traffic management in enterprise networks.
+
+---
+
+## 🛠️ Topology
+- **Switch**: Cisco 2960
+- **End Devices**:  
+  - VLAN 10 → 2 PCs on Fa0/1–4  
+  - VLAN 20 → 2 PCs on Fa0/5–13  
+  - VLAN 30 → 2 PCs on Fa0/14–20  
+
+📷 *See [topology.png](topology.png) for diagram.*
+
+---
+
+## 📝 Configuration
+See [config.txt](config.txt) for full configuration.
+
+---
+
+## ✅ Verification
+Command:
+
+Sw1# show vlan brief
